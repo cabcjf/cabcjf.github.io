@@ -1,16 +1,23 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+## Who are WE
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Welcome to Joseph Fellowship!!
 
-What else do you need?
+We are Cantonese-English Christian Youth and Young Adults from the City of Duarte, Los Angeles County, California. We share our faith, love and trust with people.
 
-### my history
+Joseph Fellowship (JF) opens to youth who desire to have a close relationship with God, equips young adults with a deeper understanding to the Word of God. People who seek for God’s presence in their lives and friendly Christian connections with the community!
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+## What we HAVE
+
+We gather at Christian Alliance Bible Church on every Friday at 8 P.M.,
+and Upcoming Events for activities we are going to have through the quarter.
+
+Come! Have fun and experience God together with us!
+
+ are going to have through the quarter.
+
+Come! Have fun and experience God together with us!
