@@ -18,7 +18,3 @@ We gather at Christian Alliance Bible Church on every Friday at 8 P.M.,
 and Upcoming Events for activities we are going to have through the quarter.
 
 Come! Have fun and experience God together with us!
-
- are going to have through the quarter.
-
-Come! Have fun and experience God together with us!
