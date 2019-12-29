@@ -5,7 +5,7 @@ subtitle:
 ---
 
 <p>
-<img src="img/photo.jpeg" />
+<img src="/img/photo.jpeg" />
 </p>
 
 ## Who are WE
