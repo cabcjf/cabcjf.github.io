@@ -4,9 +4,8 @@ title: About
 subtitle: 
 ---
 
-<div style="text-align: center">
 <p>
-<img src="img/picture.jpeg" />
+<img src="img/photo.jpeg" />
 </p>
 
 ## Who are WE
@@ -23,4 +22,3 @@ We gather at Christian Alliance Bible Church on every Friday at 8 P.M.,
 and Upcoming Events for activities we are going to have through the quarter.
 
 Come! Have fun and experience God together with us!
-</div>
