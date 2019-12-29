@@ -4,6 +4,10 @@ title: About
 subtitle: 
 ---
 
+<p>
+<img src="/img/aaron-burden-181246-unsplash.jpg" />
+</p>
+
 ## Who are WE
 
 Welcome to Joseph Fellowship!!
